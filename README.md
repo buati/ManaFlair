@@ -13,6 +13,8 @@ IF a username already has an account in the database then attach the entities to
 
 Code snippets below.
 
+``` javascript
+
 ////Get eth address example code is here.
 /////ETH addres read on button press to accept.
 
@@ -56,4 +58,4 @@ import { getUserAccount } from '@decentraland/EthereumController'
       log('error sending Aura change')
     }
   })
-
+```
