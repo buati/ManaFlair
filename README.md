@@ -1,6 +1,6 @@
 # ManaFlair
 ManaFlair Decentraland Avatar Aura System
-
+XX
 ## Concept
 User clicks a button entity (a cube button with words 'Load ManaFlair Aura') in the scene.
 
